@@ -2,14 +2,20 @@
 
 * Funcionalidades principais:
 -> Carrinho de Compras;
+  
 -> Listagem de Productos;
+
 -> Login/Cadastro
+
 -> Visualizar Pedidos;
 
 * Tipos de Usuarios:
 -> Usuario final;
+  
 -> Estabelecimento;
+
 -> Admin do Sistema;
+
 
 * Tecnologias:
 -> Nextjs com SSR;
