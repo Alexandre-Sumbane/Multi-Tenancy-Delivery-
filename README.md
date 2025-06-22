@@ -1,28 +1,36 @@
 # Saas Multi-Tenancy(Delivery)
 
 * Funcionalidades principais:
--> Carrinho de Compras;
+
+  -> Carrinho de Compras;
   
--> Listagem de Productos;
+  -> Listagem de Productos;
 
--> Login/Cadastro
+  -> Login/Cadastro
 
--> Visualizar Pedidos;
+  -> Visualizar Pedidos;
 
 * Tipos de Usuarios:
--> Usuario final;
   
--> Estabelecimento;
+  -> Usuario final;
+  
+  -> Estabelecimento;
 
--> Admin do Sistema;
+  -> Admin do Sistema;
 
 
 * Tecnologias:
--> Nextjs com SSR;
--> Prisma ORM;
--> TypeScript;
--> API RestFull;
+  
+  -> Nextjs com SSR;
+  
+  -> Prisma ORM;
+  
+  -> TypeScript;
+  
+  -> API RestFull;
 
 * Telas:
--> Usuario Final;
--> Estabelecimento;
+  
+  -> Usuario Final;
+  
+  -> Estabelecimento;
